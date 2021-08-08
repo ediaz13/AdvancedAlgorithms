@@ -1,3 +1,5 @@
+package AdjacencyMatrix;
+
 public class App {
     private static int[][] adjacencyMatrix = {
             {0, 2, 4, 0},

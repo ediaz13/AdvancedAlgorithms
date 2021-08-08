@@ -1,3 +1,5 @@
+package AdjacencyMatrix;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -21,7 +23,7 @@ public class Vertex {
 
     @Override
     public String toString() {
-        return "Vertex{" +
+        return "adjacencymatrix.Vertex{" +
                 "name='" + name + '\'' +
                 '}';
     }
