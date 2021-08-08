@@ -23,6 +23,7 @@ public class App {
         list.add(v4);
         list.add(v5);
 
+        //DepthFirstSearchRecursion dfs = new DepthFirstSearchRecursion();
         DepthFirstSearch dfs = new DepthFirstSearch();
         dfs.dfs(list);
 
