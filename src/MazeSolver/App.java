@@ -9,5 +9,8 @@ public class App {
             {1, 1, 0, 0, 0},
             {1, 1, 1, 1, 3}
         };
+
+        MazeSolver mazeSolver = new MazeSolver(map, 1, 0);
+        mazeSolver.findWay();
     }
 }
