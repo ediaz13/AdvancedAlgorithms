@@ -10,7 +10,7 @@ public class App {
         Vertex v1 = new Vertex("B");
         Vertex v2 = new Vertex("C");
         Vertex v3 = new Vertex("D");
-        Vertex v4 = new Vertex("E");
+        Vertex v4 = new  Vertex("E");
         Vertex v5 = new Vertex("F");
 
         v5.addNeighbor(v0);
